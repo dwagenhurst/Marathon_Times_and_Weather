@@ -1,0 +1,24 @@
+make a race equivalency to improve virtual race events
+
+clustering to classify course or condition type
+
+prediction model on top of that
+
+single project dipping into multiple model types
+one classification
+one regression
+
+
+nlp on shareholder letters or management's discussion and analysis
+
+
+
+
+cycling aerodynamics
+pose detection
+detect potential optimal pose on bike
+
+
+
+
+cnn capstone consider compring a trained search to a from scratch
