@@ -12,7 +12,7 @@
 
 
 ## Introduction
-In this project we have sought to construct models to predict the estimated completion time for  a marathon. Features used were age and gender of athletes and the local weather conditions on the day of the event. Athlete data was scraped from various websites and weather data was collected via the Visual Crossing Weather API. 
+In this project we have sought to construct models to predict the estimated completion time for a marathon. Features used were age and gender of athletes and the local weather conditions on the day of the event. Athlete data was scraped from various websites and weather data was collected via the Visual Crossing Weather API. 
 
 ## Problem Statement
 How do weather conditions impact the time it takes to complete a marathon?
