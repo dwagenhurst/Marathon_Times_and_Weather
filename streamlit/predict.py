@@ -45,7 +45,7 @@ def predict_time(event, age, male, temperature, relative_humidity, wind_speed,
         conditions = [1,0,0]
     if conditions == 'Partially Cloudy':
         conditions = [0,1,0]
-    if conditions == 'Rain':
+    if conditions == 'Rainy':
         conditions = [0,0,1]
 
 
